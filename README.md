@@ -1,4 +1,4 @@
-I'm QA Engineer (Manual / Automation). As a skilled and highly educated professional with 3+ years of professional experience and 4 years of freelance experience testing Web-based & mobile applications, I am confident of my ability to make a significant contribution to your organization.
+I'm QA Engineer (Manual / Automation). As a skilled and highly educated professional with 5+ years of professional experience and 4 years of freelance experience testing Web-based & mobile applications, I am confident of my ability to make a significant contribution to your organization.
 
 My professional experience includes analyzing the business requirements, creating test strategies, executing tests to identify bugs in new software, and creating and maintaining automation packs for the same. I have worked around most kinds of projects like FinTech, EduTech, Real Estate, etc.
 
